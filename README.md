@@ -1,7 +1,8 @@
 # what does this program do 🤘
-This script demonstrates basic interactions with a either blockchain using the Hardhat framework and the ethers.js library
+This script demonstrates basic interactions like transferring ETH on Either blockchain using the Hardhat framework and the ethers.js library
 
-## it will show 👊
-1) transaction details
-2) transaction receipt
-3) Details of the block that contains the transaction
+## it can simulate 👊
+1) Transferring ETH from 1 wallet to another wallet
+2) Show transaction details
+3) Show transaction receipt
+4) Details of the block that contains the transaction
